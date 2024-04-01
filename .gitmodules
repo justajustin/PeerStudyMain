@@ -1,3 +1,6 @@
 [submodule "client"]
 	path = client
 	url = https://github.com/justajustin/PeerStudyClient.git
+[submodule "server"]
+	path = server
+	url = https://github.com/justajustin/PeerStudyServer.git
